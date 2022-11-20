@@ -1,0 +1,34 @@
+,label,quantity,unit
+ENERC_KCAL,Energy,95.98648385516834,kcal
+FAT,Total lipid (fat),5.060122500480281,g
+FASAT,"Fatty acids, total saturated",2.9016992195063764,g
+FATRN,"Fatty acids, total trans",0.0,g
+FAMS,"Fatty acids, total monounsaturated",1.2561571293507656,g
+FAPU,"Fatty acids, total polyunsaturated",0.31822335002881685,g
+CHOCDF,"Carbohydrate, by difference",7.726159385324722,g
+CHOCDF.net,Carbohydrates (net),7.726159385324722,g
+FIBTG,"Fiber, total dietary",0.0,g
+SUGAR,"Sugars, total",7.812307269977051,g
+PROCNT,Protein,4.894623346619349,g
+CHOLE,Cholesterol,15.469915386093172,mg
+NA,"Sodium, Na",69.04063616020063,mg
+CA,"Calcium, Ca",175.17004386285285,mg
+MG,"Magnesium, Mg",29.86991538609317,mg
+K,"Potassium, K",224.90288309642986,mg
+FE,"Iron, Fe",0.06980974615827952,mg
+ZN,"Zinc, Zn",0.5813868692854474,mg
+P,"Phosphorus, P",131.20728924318263,mg
+VITA_RAE,"Vitamin A, RAE",71.1616107760286,µg
+VITC,"Vitamin C, total ascorbic acid",0.036,mg
+THIA,Thiamin,0.07134161077602859,mg
+RIBF,Riboflavin,0.2933015700249746,mg
+NIA,Niacin,1.0749422469362293,mg
+VITB6A,Vitamin B-6,0.056051695389935416,mg
+FOLDFE,"Folate, DFE",7.914957693046586,µg
+FOLFD,"Folate, food",7.914957693046586,µg
+FOLAC,Folic acid,0.0,µg
+VITB12,Vitamin B-12,0.6961461923741927,µg
+VITD,Vitamin D (D2 + D3),2.0110890001921122,µg
+TOCPHA,Vitamin E (alpha-tocopherol),0.1100894077026522,mg
+VITK1,Vitamin K (phylloquinone),0.48209746158279515,µg
+WATER,Water,153.94036429763912,g
